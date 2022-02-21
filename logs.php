@@ -1,6 +1,6 @@
 <?php
 
-// Laravel Controller sample
+// Laravel 5.3+ Controller sample
 use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
 use AWS;
